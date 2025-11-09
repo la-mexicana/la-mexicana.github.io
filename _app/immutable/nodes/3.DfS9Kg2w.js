@@ -1,0 +1,1 @@
+import{f as r,a as t}from"../chunks/tU7H9NnK.js";import"../chunks/C60gber-.js";const a=!0,l=Object.freeze(Object.defineProperty({__proto__:null,prerender:a},Symbol.toStringTag,{value:"Module"}));var n=r("<span>Test Menu</span>");function m(e){var o=n();t(e,o)}export{m as component,l as universal};
